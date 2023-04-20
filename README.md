@@ -1,4 +1,7 @@
 # lab_work_eleventh
 Лабораторная работа №11 по ООП
-![image](https://user-images.githubusercontent.com/118682916/233427277-f5440bb9-06c9-42f3-8b9b-b4fb2c73e0ae.png)
-![image](https://user-images.githubusercontent.com/118682916/233427362-ba71bea5-cea9-4ad5-b1c2-11eefa794bd5.png)
+
+![image](https://user-images.githubusercontent.com/118682916/233427443-0e87cbee-dce3-42df-a4c3-c8283960a187.png)
+![image](https://user-images.githubusercontent.com/118682916/233427498-9423054d-a329-47af-b8ca-5554d7b4b6e8.png)
+![image](https://user-images.githubusercontent.com/118682916/233427692-9df0b985-ccd9-488b-9295-1b14417a79a2.png)
+
